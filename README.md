@@ -1,0 +1,2 @@
+# EMA
+LOGIC CODE OF EMA
